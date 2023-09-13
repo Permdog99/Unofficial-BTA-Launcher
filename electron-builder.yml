@@ -1,5 +1,5 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'unofficial-bta-launcher'
+productName: 'Unofficial BTA Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2022 Daniel Scalzi'
@@ -39,10 +39,10 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Daniel Scalzi'
-  vendor: 'Daniel Scalzi'
-  synopsis: 'Modded Minecraft Launcher'
-  description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
+  maintainer: 'Daniel Scalzi and Permdog99'
+  vendor: 'Daniel Scalzi and Permdog99'
+  synopsis: 'A Custom Launcher for Better than Adventure!'
+  description: 'Custom launcher for BTA which allows users to acces BTA in a much easier way.'
   category: 'Game'
 
 
